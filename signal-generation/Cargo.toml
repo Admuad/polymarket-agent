@@ -1,0 +1,16 @@
+[package]
+name = "signal-generation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+common = { path = "../common" }
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+tracing = { workspace = true }
+uuid = { workspace = true }
+chrono = { workspace = true }
+rust_decimal = { version = "1.36", features = ["serde"] }
+async-trait = "0.1"

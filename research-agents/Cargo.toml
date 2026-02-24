@@ -1,0 +1,31 @@
+[package]
+name = "research-agents"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Workspace dependencies
+common = { path = "../common" }
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+uuid = { workspace = true }
+chrono = { workspace = true }
+
+# Additional dependencies
+async-trait = "0.1"
+futures = "0.3"
+dashmap = "6.0"
+regex = "1.10"
+lazy_static = "1.4"
+
+# Optional NLP dependencies (commented out for initial simple implementation)
+# rust-bert = { version = "0.20", optional = true }
+# tokenizers = { version = "0.13", optional = true }
+
+[features]
+default = []
+# full-nlp = ["dep:rust-bert", "dep:tokenizers"]

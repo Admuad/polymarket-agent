@@ -1,0 +1,78 @@
+# Portfolio & Risk Management Configuration
+# This file defines all risk limits and circuit breakers
+
+[risk_limits]
+# Maximum position size for a single market (USD)
+max_position_size = 100.0
+
+# Maximum total portfolio exposure (USD)
+max_total_exposure = 1000.0
+
+# Maximum exposure per theme/category (USD)
+max_theme_exposure = 500.0
+
+# Maximum number of open positions
+max_positions = 20
+
+# Maximum percentage of portfolio in any single theme
+max_theme_percentage = 0.30
+
+# Daily loss limit - triggers circuit breaker (USD)
+daily_loss_limit = 100.0
+
+# Stop loss percentage per position
+stop_loss_percentage = 0.20
+
+# Theme-specific limits
+[risk_limits.theme_limits.politics]
+max_exposure = 500.0
+max_positions = 5
+max_percentage = 0.30
+
+[risk_limits.theme_limits.sports]
+max_exposure = 300.0
+max_positions = 3
+max_percentage = 0.20
+
+[risk_limits.theme_limits.crypto]
+max_exposure = 400.0
+max_positions = 4
+max_percentage = 0.25
+
+[circuit_breakers]
+# Enable circuit breakers
+enabled = true
+
+# Stop trading if daily PnL drops below this (USD)
+daily_loss_limit = 100.0
+
+# Stop trading if drawdown exceeds this percentage
+max_drawdown_percentage = 0.15
+
+# Stop trading if VaR (95%) exceeds this (USD)
+var_95_limit = 200.0
+
+# Cooldown period after circuit breaker trigger (minutes)
+cooldown_minutes = 30
+
+# Maximum violations per day before full halt
+max_violations_per_day = 3
+
+# Kelly criterion multiplier (0.25 = quarter-Kelly, conservative)
+# Higher values = more aggressive sizing
+kelly_multiplier = 0.25
+
+correlation_threshold = 0.7
+
+[metrics]
+# Number of samples for VaR calculation
+var_samples = 100
+
+# Confidence level for VaR (0.95 = 95%)
+var_confidence = 0.95
+
+# Lookback period for Sharpe ratio (days)
+sharpe_lookback_days = 30
+
+# Risk-free rate for Sharpe (annualized)
+risk_free_rate = 0.05

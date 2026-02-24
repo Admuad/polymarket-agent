@@ -1,0 +1,30 @@
+# Build artifacts
+/target
+**/*.rs.bk
+.DS_Store
+
+# Environment & secrets
+.env
+*.db
+*.sqlite
+data/
+logs/
+
+# Parent workspace directories (this is a sub-project)
+/../../.clawhub/
+/../../.openclaw/
+/../../AGENTS.md
+/../../HEARTBEAT.md
+/../../IDENTITY.md
+/../../SOUL.md
+/../../TOOLS.md
+/../../USER.md
+/../../memory/
+/../../qmd/
+/../../projects/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

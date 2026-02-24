@@ -1,0 +1,49 @@
+[package]
+name = "monitoring"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+uuid = { workspace = true }
+chrono = { workspace = true }
+
+common = { path = "../common" }
+
+# Statistical calculations
+statrs = "0.16"
+
+# Database connections
+sqlx = { version = "0.8", features = ["runtime-tokio", "postgres", "chrono", "uuid"] }
+redis = { version = "0.26", features = ["tokio-comp", "connection-manager"] }
+
+# Configuration
+config = "0.14"
+toml = "0.8"
+
+# Decimal precision
+rust_decimal = { version = "1.35", features = ["serde"] }
+rust_decimal_macros = "1.35"
+
+# Async traits
+async-trait = "0.1"
+
+# Metrics
+prometheus = { version = "0.13", features = ["process"] }
+
+# Alerting (optional, can be removed if not needed)
+lettre = "0.11"
+
+# Caching
+lru = "0.12"
+
+# Random number generation
+fastrand = "2.1"
+
+[dev-dependencies]
+tracing-subscriber = "0.3"
