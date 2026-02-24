@@ -1,0 +1,3000 @@
+Balance before bet: 10000.00
+Trade number: 1
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10001.34
+
+Balance before bet: 10001.34
+Trade number: 2
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10002.68
+
+Balance before bet: 10002.68
+Trade number: 3
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10004.02
+
+Balance before bet: 10004.02
+Trade number: 4
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10005.36
+
+Balance before bet: 10005.36
+Trade number: 5
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10006.70
+
+Balance before bet: 10006.70
+Trade number: 6
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10008.04
+
+Balance before bet: 10008.04
+Trade number: 7
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10009.38
+
+Balance before bet: 10009.38
+Trade number: 8
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10010.72
+
+Balance before bet: 10010.72
+Trade number: 9
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10012.06
+
+Balance before bet: 10012.06
+Trade number: 10
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10013.40
+
+Balance before bet: 10013.40
+Trade number: 11
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10014.74
+
+Balance before bet: 10014.74
+Trade number: 12
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10016.08
+
+Balance before bet: 10016.08
+Trade number: 13
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10017.42
+
+Balance before bet: 10017.42
+Trade number: 14
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10018.76
+
+Balance before bet: 10018.76
+Trade number: 15
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10020.10
+
+Balance before bet: 10020.10
+Trade number: 16
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10021.44
+
+Balance before bet: 10021.44
+Trade number: 17
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10022.78
+
+Balance before bet: 10022.78
+Trade number: 18
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10024.12
+
+Balance before bet: 10024.12
+Trade number: 19
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10025.46
+
+Balance before bet: 10025.46
+Trade number: 20
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10026.80
+
+Balance before bet: 10026.80
+Trade number: 21
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10028.14
+
+Balance before bet: 10028.14
+Trade number: 22
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10029.48
+
+Balance before bet: 10029.48
+Trade number: 23
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10030.82
+
+Balance before bet: 10030.82
+Trade number: 24
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10032.16
+
+Balance before bet: 10032.16
+Trade number: 25
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10033.50
+
+Balance before bet: 10033.50
+Trade number: 26
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10034.84
+
+Balance before bet: 10034.84
+Trade number: 27
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10036.18
+
+Balance before bet: 10036.18
+Trade number: 28
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10037.52
+
+Balance before bet: 10037.52
+Trade number: 29
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10038.86
+
+Balance before bet: 10038.86
+Trade number: 30
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10040.20
+
+Balance before bet: 10040.20
+Trade number: 31
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10041.54
+
+Balance before bet: 10041.54
+Trade number: 32
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10042.88
+
+Balance before bet: 10042.88
+Trade number: 33
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10044.22
+
+Balance before bet: 10044.22
+Trade number: 34
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10045.56
+
+Balance before bet: 10045.56
+Trade number: 35
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10046.90
+
+Balance before bet: 10046.90
+Trade number: 36
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10048.24
+
+Balance before bet: 10048.24
+Trade number: 37
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10049.58
+
+Balance before bet: 10049.58
+Trade number: 38
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10050.92
+
+Balance before bet: 10050.92
+Trade number: 39
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10052.26
+
+Balance before bet: 10052.26
+Trade number: 40
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10053.60
+
+Balance before bet: 10053.60
+Trade number: 41
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10054.94
+
+Balance before bet: 10054.94
+Trade number: 42
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10056.28
+
+Balance before bet: 10056.28
+Trade number: 43
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10057.62
+
+Balance before bet: 10057.62
+Trade number: 44
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10058.96
+
+Balance before bet: 10058.96
+Trade number: 45
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10060.30
+
+Balance before bet: 10060.30
+Trade number: 46
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10061.64
+
+Balance before bet: 10061.64
+Trade number: 47
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10062.98
+
+Balance before bet: 10062.98
+Trade number: 48
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10064.32
+
+Balance before bet: 10064.32
+Trade number: 49
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10065.66
+
+Balance before bet: 10065.66
+Trade number: 50
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10067.00
+
+Balance before bet: 10067.00
+Trade number: 51
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10068.34
+
+Balance before bet: 10068.34
+Trade number: 52
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10069.68
+
+Balance before bet: 10069.68
+Trade number: 53
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10071.02
+
+Balance before bet: 10071.02
+Trade number: 54
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10072.36
+
+Balance before bet: 10072.36
+Trade number: 55
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10073.70
+
+Balance before bet: 10073.70
+Trade number: 56
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10075.04
+
+Balance before bet: 10075.04
+Trade number: 57
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10076.38
+
+Balance before bet: 10076.38
+Trade number: 58
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10077.72
+
+Balance before bet: 10077.72
+Trade number: 59
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10079.06
+
+Balance before bet: 10079.06
+Trade number: 60
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10080.40
+
+Balance before bet: 10080.40
+Trade number: 61
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10081.74
+
+Balance before bet: 10081.74
+Trade number: 62
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10083.08
+
+Balance before bet: 10083.08
+Trade number: 63
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10084.42
+
+Balance before bet: 10084.42
+Trade number: 64
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10085.76
+
+Balance before bet: 10085.76
+Trade number: 65
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10087.10
+
+Balance before bet: 10087.10
+Trade number: 66
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10088.44
+
+Balance before bet: 10088.44
+Trade number: 67
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10089.78
+
+Balance before bet: 10089.78
+Trade number: 68
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10091.12
+
+Balance before bet: 10091.12
+Trade number: 69
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10092.46
+
+Balance before bet: 10092.46
+Trade number: 70
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10093.80
+
+Balance before bet: 10093.80
+Trade number: 71
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10095.14
+
+Balance before bet: 10095.14
+Trade number: 72
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10096.48
+
+Balance before bet: 10096.48
+Trade number: 73
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10097.82
+
+Balance before bet: 10097.82
+Trade number: 74
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10099.16
+
+Balance before bet: 10099.16
+Trade number: 75
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10100.50
+
+Balance before bet: 10100.50
+Trade number: 76
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10101.84
+
+Balance before bet: 10101.84
+Trade number: 77
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10103.18
+
+Balance before bet: 10103.18
+Trade number: 78
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10104.52
+
+Balance before bet: 10104.52
+Trade number: 79
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10105.86
+
+Balance before bet: 10105.86
+Trade number: 80
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10107.20
+
+Balance before bet: 10107.20
+Trade number: 81
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10108.54
+
+Balance before bet: 10108.54
+Trade number: 82
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10103.04
+
+Balance before bet: 10103.04
+Trade number: 83
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10097.54
+
+Balance before bet: 10097.54
+Trade number: 84
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10092.04
+
+Balance before bet: 10092.04
+Trade number: 85
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10086.54
+
+Balance before bet: 10086.54
+Trade number: 86
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10081.04
+
+Balance before bet: 10081.04
+Trade number: 87
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10075.54
+
+Balance before bet: 10075.54
+Trade number: 88
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10070.04
+
+Balance before bet: 10070.04
+Trade number: 89
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10064.54
+
+Balance before bet: 10064.54
+Trade number: 90
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10059.04
+
+Balance before bet: 10059.04
+Trade number: 91
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10053.54
+
+Balance before bet: 10053.54
+Trade number: 92
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10048.04
+
+Balance before bet: 10048.04
+Trade number: 93
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10042.54
+
+Balance before bet: 10042.54
+Trade number: 94
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10037.04
+
+Balance before bet: 10037.04
+Trade number: 95
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10031.54
+
+Balance before bet: 10031.54
+Trade number: 96
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10026.04
+
+Balance before bet: 10026.04
+Trade number: 97
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10020.54
+
+Balance before bet: 10020.54
+Trade number: 98
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10015.04
+
+Balance before bet: 10015.04
+Trade number: 99
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10009.54
+
+Balance before bet: 10009.54
+Trade number: 100
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10010.88
+
+Balance before bet: 10010.88
+Trade number: 101
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10012.22
+
+Balance before bet: 10012.22
+Trade number: 102
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10013.56
+
+Balance before bet: 10013.56
+Trade number: 103
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10014.90
+
+Balance before bet: 10014.90
+Trade number: 104
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10016.24
+
+Balance before bet: 10016.24
+Trade number: 105
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10017.58
+
+Balance before bet: 10017.58
+Trade number: 106
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10018.92
+
+Balance before bet: 10018.92
+Trade number: 107
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10020.26
+
+Balance before bet: 10020.26
+Trade number: 108
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10021.60
+
+Balance before bet: 10021.60
+Trade number: 109
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10022.94
+
+Balance before bet: 10022.94
+Trade number: 110
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10024.28
+
+Balance before bet: 10024.28
+Trade number: 111
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10025.62
+
+Balance before bet: 10025.62
+Trade number: 112
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10026.96
+
+Balance before bet: 10026.96
+Trade number: 113
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10028.30
+
+Balance before bet: 10028.30
+Trade number: 114
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10029.64
+
+Balance before bet: 10029.64
+Trade number: 115
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10030.98
+
+Balance before bet: 10030.98
+Trade number: 116
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10032.32
+
+Balance before bet: 10032.32
+Trade number: 117
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10033.66
+
+Balance before bet: 10033.66
+Trade number: 118
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10035.00
+
+Balance before bet: 10035.00
+Trade number: 119
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10036.34
+
+Balance before bet: 10036.34
+Trade number: 120
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10037.68
+
+Balance before bet: 10037.68
+Trade number: 121
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10039.02
+
+Balance before bet: 10039.02
+Trade number: 122
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10040.36
+
+Balance before bet: 10040.36
+Trade number: 123
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10041.70
+
+Balance before bet: 10041.70
+Trade number: 124
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10043.04
+
+Balance before bet: 10043.04
+Trade number: 125
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10044.38
+
+Balance before bet: 10044.38
+Trade number: 126
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10045.72
+
+Balance before bet: 10045.72
+Trade number: 127
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10047.06
+
+Balance before bet: 10047.06
+Trade number: 128
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10048.40
+
+Balance before bet: 10048.40
+Trade number: 129
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10049.74
+
+Balance before bet: 10049.74
+Trade number: 130
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10051.08
+
+Balance before bet: 10051.08
+Trade number: 131
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10052.42
+
+Balance before bet: 10052.42
+Trade number: 132
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10053.76
+
+Balance before bet: 10053.76
+Trade number: 133
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10055.10
+
+Balance before bet: 10055.10
+Trade number: 134
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10056.44
+
+Balance before bet: 10056.44
+Trade number: 135
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10057.78
+
+Balance before bet: 10057.78
+Trade number: 136
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10059.12
+
+Balance before bet: 10059.12
+Trade number: 137
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10060.46
+
+Balance before bet: 10060.46
+Trade number: 138
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10061.80
+
+Balance before bet: 10061.80
+Trade number: 139
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10063.14
+
+Balance before bet: 10063.14
+Trade number: 140
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10064.48
+
+Balance before bet: 10064.48
+Trade number: 141
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10065.82
+
+Balance before bet: 10065.82
+Trade number: 142
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10067.16
+
+Balance before bet: 10067.16
+Trade number: 143
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10068.50
+
+Balance before bet: 10068.50
+Trade number: 144
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10069.84
+
+Balance before bet: 10069.84
+Trade number: 145
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10071.18
+
+Balance before bet: 10071.18
+Trade number: 146
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10072.52
+
+Balance before bet: 10072.52
+Trade number: 147
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10073.86
+
+Balance before bet: 10073.86
+Trade number: 148
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10075.20
+
+Balance before bet: 10075.20
+Trade number: 149
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10076.54
+
+Balance before bet: 10076.54
+Trade number: 150
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10077.88
+
+Balance before bet: 10077.88
+Trade number: 151
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10079.22
+
+Balance before bet: 10079.22
+Trade number: 152
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10080.56
+
+Balance before bet: 10080.56
+Trade number: 153
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10081.90
+
+Balance before bet: 10081.90
+Trade number: 154
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10083.24
+
+Balance before bet: 10083.24
+Trade number: 155
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10084.58
+
+Balance before bet: 10084.58
+Trade number: 156
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10085.92
+
+Balance before bet: 10085.92
+Trade number: 157
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10087.26
+
+Balance before bet: 10087.26
+Trade number: 158
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10088.60
+
+Balance before bet: 10088.60
+Trade number: 159
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10089.94
+
+Balance before bet: 10089.94
+Trade number: 160
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10091.28
+
+Balance before bet: 10091.28
+Trade number: 161
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10092.62
+
+Balance before bet: 10092.62
+Trade number: 162
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10093.96
+
+Balance before bet: 10093.96
+Trade number: 163
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10095.30
+
+Balance before bet: 10095.30
+Trade number: 164
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10096.64
+
+Balance before bet: 10096.64
+Trade number: 165
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10097.98
+
+Balance before bet: 10097.98
+Trade number: 166
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10099.32
+
+Balance before bet: 10099.32
+Trade number: 167
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10100.66
+
+Balance before bet: 10100.66
+Trade number: 168
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10102.00
+
+Balance before bet: 10102.00
+Trade number: 169
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10103.34
+
+Balance before bet: 10103.34
+Trade number: 170
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10104.68
+
+Balance before bet: 10104.68
+Trade number: 171
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10106.02
+
+Balance before bet: 10106.02
+Trade number: 172
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10107.36
+
+Balance before bet: 10107.36
+Trade number: 173
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10108.70
+
+Balance before bet: 10108.70
+Trade number: 174
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10110.04
+
+Balance before bet: 10110.04
+Trade number: 175
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10111.38
+
+Balance before bet: 10111.38
+Trade number: 176
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10112.72
+
+Balance before bet: 10112.72
+Trade number: 177
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10114.06
+
+Balance before bet: 10114.06
+Trade number: 178
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10115.40
+
+Balance before bet: 10115.40
+Trade number: 179
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10116.74
+
+Balance before bet: 10116.74
+Trade number: 180
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10118.08
+
+Balance before bet: 10118.08
+Trade number: 181
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10119.42
+
+Balance before bet: 10119.42
+Trade number: 182
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10113.92
+
+Balance before bet: 10113.92
+Trade number: 183
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10108.42
+
+Balance before bet: 10108.42
+Trade number: 184
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10102.92
+
+Balance before bet: 10102.92
+Trade number: 185
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10097.42
+
+Balance before bet: 10097.42
+Trade number: 186
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10091.92
+
+Balance before bet: 10091.92
+Trade number: 187
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10086.42
+
+Balance before bet: 10086.42
+Trade number: 188
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10080.92
+
+Balance before bet: 10080.92
+Trade number: 189
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10075.42
+
+Balance before bet: 10075.42
+Trade number: 190
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10069.92
+
+Balance before bet: 10069.92
+Trade number: 191
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10064.42
+
+Balance before bet: 10064.42
+Trade number: 192
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10058.92
+
+Balance before bet: 10058.92
+Trade number: 193
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10053.42
+
+Balance before bet: 10053.42
+Trade number: 194
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10047.92
+
+Balance before bet: 10047.92
+Trade number: 195
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10042.42
+
+Balance before bet: 10042.42
+Trade number: 196
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10036.92
+
+Balance before bet: 10036.92
+Trade number: 197
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10031.42
+
+Balance before bet: 10031.42
+Trade number: 198
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10025.92
+
+Balance before bet: 10025.92
+Trade number: 199
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10020.42
+
+Balance before bet: 10020.42
+Trade number: 200
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10021.76
+
+Balance before bet: 10021.76
+Trade number: 201
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10023.10
+
+Balance before bet: 10023.10
+Trade number: 202
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10024.44
+
+Balance before bet: 10024.44
+Trade number: 203
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10025.78
+
+Balance before bet: 10025.78
+Trade number: 204
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10027.12
+
+Balance before bet: 10027.12
+Trade number: 205
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10028.46
+
+Balance before bet: 10028.46
+Trade number: 206
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10029.80
+
+Balance before bet: 10029.80
+Trade number: 207
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10031.14
+
+Balance before bet: 10031.14
+Trade number: 208
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10032.48
+
+Balance before bet: 10032.48
+Trade number: 209
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10033.82
+
+Balance before bet: 10033.82
+Trade number: 210
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10035.16
+
+Balance before bet: 10035.16
+Trade number: 211
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10036.50
+
+Balance before bet: 10036.50
+Trade number: 212
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10037.84
+
+Balance before bet: 10037.84
+Trade number: 213
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10039.18
+
+Balance before bet: 10039.18
+Trade number: 214
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10040.52
+
+Balance before bet: 10040.52
+Trade number: 215
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10041.86
+
+Balance before bet: 10041.86
+Trade number: 216
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10043.20
+
+Balance before bet: 10043.20
+Trade number: 217
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10044.54
+
+Balance before bet: 10044.54
+Trade number: 218
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10045.88
+
+Balance before bet: 10045.88
+Trade number: 219
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10047.22
+
+Balance before bet: 10047.22
+Trade number: 220
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10048.56
+
+Balance before bet: 10048.56
+Trade number: 221
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10049.90
+
+Balance before bet: 10049.90
+Trade number: 222
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10051.24
+
+Balance before bet: 10051.24
+Trade number: 223
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10052.58
+
+Balance before bet: 10052.58
+Trade number: 224
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10053.92
+
+Balance before bet: 10053.92
+Trade number: 225
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10055.26
+
+Balance before bet: 10055.26
+Trade number: 226
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10056.60
+
+Balance before bet: 10056.60
+Trade number: 227
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10057.94
+
+Balance before bet: 10057.94
+Trade number: 228
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10059.28
+
+Balance before bet: 10059.28
+Trade number: 229
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10060.62
+
+Balance before bet: 10060.62
+Trade number: 230
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10061.96
+
+Balance before bet: 10061.96
+Trade number: 231
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10063.30
+
+Balance before bet: 10063.30
+Trade number: 232
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10064.64
+
+Balance before bet: 10064.64
+Trade number: 233
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10065.98
+
+Balance before bet: 10065.98
+Trade number: 234
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10067.32
+
+Balance before bet: 10067.32
+Trade number: 235
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10068.66
+
+Balance before bet: 10068.66
+Trade number: 236
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10070.00
+
+Balance before bet: 10070.00
+Trade number: 237
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10071.34
+
+Balance before bet: 10071.34
+Trade number: 238
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10072.68
+
+Balance before bet: 10072.68
+Trade number: 239
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10074.02
+
+Balance before bet: 10074.02
+Trade number: 240
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10075.36
+
+Balance before bet: 10075.36
+Trade number: 241
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10076.70
+
+Balance before bet: 10076.70
+Trade number: 242
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10078.04
+
+Balance before bet: 10078.04
+Trade number: 243
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10079.38
+
+Balance before bet: 10079.38
+Trade number: 244
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10080.72
+
+Balance before bet: 10080.72
+Trade number: 245
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10082.06
+
+Balance before bet: 10082.06
+Trade number: 246
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10083.40
+
+Balance before bet: 10083.40
+Trade number: 247
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10084.74
+
+Balance before bet: 10084.74
+Trade number: 248
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10086.08
+
+Balance before bet: 10086.08
+Trade number: 249
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10087.42
+
+Balance before bet: 10087.42
+Trade number: 250
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10088.76
+
+Balance before bet: 10088.76
+Trade number: 251
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10090.10
+
+Balance before bet: 10090.10
+Trade number: 252
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10091.44
+
+Balance before bet: 10091.44
+Trade number: 253
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10092.78
+
+Balance before bet: 10092.78
+Trade number: 254
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10094.12
+
+Balance before bet: 10094.12
+Trade number: 255
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10095.46
+
+Balance before bet: 10095.46
+Trade number: 256
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10096.80
+
+Balance before bet: 10096.80
+Trade number: 257
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10098.14
+
+Balance before bet: 10098.14
+Trade number: 258
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10099.48
+
+Balance before bet: 10099.48
+Trade number: 259
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10100.82
+
+Balance before bet: 10100.82
+Trade number: 260
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10102.16
+
+Balance before bet: 10102.16
+Trade number: 261
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10103.50
+
+Balance before bet: 10103.50
+Trade number: 262
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10104.84
+
+Balance before bet: 10104.84
+Trade number: 263
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10106.18
+
+Balance before bet: 10106.18
+Trade number: 264
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10107.52
+
+Balance before bet: 10107.52
+Trade number: 265
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10108.86
+
+Balance before bet: 10108.86
+Trade number: 266
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10110.20
+
+Balance before bet: 10110.20
+Trade number: 267
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10111.54
+
+Balance before bet: 10111.54
+Trade number: 268
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10112.88
+
+Balance before bet: 10112.88
+Trade number: 269
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10114.22
+
+Balance before bet: 10114.22
+Trade number: 270
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10115.56
+
+Balance before bet: 10115.56
+Trade number: 271
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10116.90
+
+Balance before bet: 10116.90
+Trade number: 272
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10118.24
+
+Balance before bet: 10118.24
+Trade number: 273
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10119.58
+
+Balance before bet: 10119.58
+Trade number: 274
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10120.92
+
+Balance before bet: 10120.92
+Trade number: 275
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10122.26
+
+Balance before bet: 10122.26
+Trade number: 276
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10123.60
+
+Balance before bet: 10123.60
+Trade number: 277
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10124.94
+
+Balance before bet: 10124.94
+Trade number: 278
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10126.28
+
+Balance before bet: 10126.28
+Trade number: 279
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10127.62
+
+Balance before bet: 10127.62
+Trade number: 280
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10128.96
+
+Balance before bet: 10128.96
+Trade number: 281
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10130.30
+
+Balance before bet: 10130.30
+Trade number: 282
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10124.80
+
+Balance before bet: 10124.80
+Trade number: 283
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10119.30
+
+Balance before bet: 10119.30
+Trade number: 284
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10113.80
+
+Balance before bet: 10113.80
+Trade number: 285
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10108.30
+
+Balance before bet: 10108.30
+Trade number: 286
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10102.80
+
+Balance before bet: 10102.80
+Trade number: 287
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10097.30
+
+Balance before bet: 10097.30
+Trade number: 288
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10091.80
+
+Balance before bet: 10091.80
+Trade number: 289
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10086.30
+
+Balance before bet: 10086.30
+Trade number: 290
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10080.80
+
+Balance before bet: 10080.80
+Trade number: 291
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10075.30
+
+Balance before bet: 10075.30
+Trade number: 292
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10069.80
+
+Balance before bet: 10069.80
+Trade number: 293
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10064.30
+
+Balance before bet: 10064.30
+Trade number: 294
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10058.80
+
+Balance before bet: 10058.80
+Trade number: 295
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10053.30
+
+Balance before bet: 10053.30
+Trade number: 296
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10047.80
+
+Balance before bet: 10047.80
+Trade number: 297
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10042.30
+
+Balance before bet: 10042.30
+Trade number: 298
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10036.80
+
+Balance before bet: 10036.80
+Trade number: 299
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10031.30
+
+Balance before bet: 10031.30
+Trade number: 300
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10032.64
+
+Balance before bet: 10032.64
+Trade number: 301
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10033.98
+
+Balance before bet: 10033.98
+Trade number: 302
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10035.32
+
+Balance before bet: 10035.32
+Trade number: 303
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10036.66
+
+Balance before bet: 10036.66
+Trade number: 304
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10038.00
+
+Balance before bet: 10038.00
+Trade number: 305
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10039.34
+
+Balance before bet: 10039.34
+Trade number: 306
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10040.68
+
+Balance before bet: 10040.68
+Trade number: 307
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10042.02
+
+Balance before bet: 10042.02
+Trade number: 308
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10043.36
+
+Balance before bet: 10043.36
+Trade number: 309
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10044.70
+
+Balance before bet: 10044.70
+Trade number: 310
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10046.04
+
+Balance before bet: 10046.04
+Trade number: 311
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10047.38
+
+Balance before bet: 10047.38
+Trade number: 312
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10048.72
+
+Balance before bet: 10048.72
+Trade number: 313
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10050.06
+
+Balance before bet: 10050.06
+Trade number: 314
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10051.40
+
+Balance before bet: 10051.40
+Trade number: 315
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10052.74
+
+Balance before bet: 10052.74
+Trade number: 316
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10054.08
+
+Balance before bet: 10054.08
+Trade number: 317
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10055.42
+
+Balance before bet: 10055.42
+Trade number: 318
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10056.76
+
+Balance before bet: 10056.76
+Trade number: 319
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10058.10
+
+Balance before bet: 10058.10
+Trade number: 320
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10059.44
+
+Balance before bet: 10059.44
+Trade number: 321
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10060.78
+
+Balance before bet: 10060.78
+Trade number: 322
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10062.12
+
+Balance before bet: 10062.12
+Trade number: 323
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10063.46
+
+Balance before bet: 10063.46
+Trade number: 324
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10064.80
+
+Balance before bet: 10064.80
+Trade number: 325
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10066.14
+
+Balance before bet: 10066.14
+Trade number: 326
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10067.48
+
+Balance before bet: 10067.48
+Trade number: 327
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10068.82
+
+Balance before bet: 10068.82
+Trade number: 328
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10070.16
+
+Balance before bet: 10070.16
+Trade number: 329
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10071.50
+
+Balance before bet: 10071.50
+Trade number: 330
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10072.84
+
+Balance before bet: 10072.84
+Trade number: 331
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10074.18
+
+Balance before bet: 10074.18
+Trade number: 332
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10075.52
+
+Balance before bet: 10075.52
+Trade number: 333
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10076.86
+
+Balance before bet: 10076.86
+Trade number: 334
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10078.20
+
+Balance before bet: 10078.20
+Trade number: 335
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10079.54
+
+Balance before bet: 10079.54
+Trade number: 336
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10080.88
+
+Balance before bet: 10080.88
+Trade number: 337
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10082.22
+
+Balance before bet: 10082.22
+Trade number: 338
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10083.56
+
+Balance before bet: 10083.56
+Trade number: 339
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10084.90
+
+Balance before bet: 10084.90
+Trade number: 340
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10086.24
+
+Balance before bet: 10086.24
+Trade number: 341
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10087.58
+
+Balance before bet: 10087.58
+Trade number: 342
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10088.92
+
+Balance before bet: 10088.92
+Trade number: 343
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10090.26
+
+Balance before bet: 10090.26
+Trade number: 344
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10091.60
+
+Balance before bet: 10091.60
+Trade number: 345
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10092.94
+
+Balance before bet: 10092.94
+Trade number: 346
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10094.28
+
+Balance before bet: 10094.28
+Trade number: 347
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10095.62
+
+Balance before bet: 10095.62
+Trade number: 348
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10096.96
+
+Balance before bet: 10096.96
+Trade number: 349
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10098.30
+
+Balance before bet: 10098.30
+Trade number: 350
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10099.64
+
+Balance before bet: 10099.64
+Trade number: 351
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10100.98
+
+Balance before bet: 10100.98
+Trade number: 352
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10102.32
+
+Balance before bet: 10102.32
+Trade number: 353
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10103.66
+
+Balance before bet: 10103.66
+Trade number: 354
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10105.00
+
+Balance before bet: 10105.00
+Trade number: 355
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10106.34
+
+Balance before bet: 10106.34
+Trade number: 356
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10107.68
+
+Balance before bet: 10107.68
+Trade number: 357
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10109.02
+
+Balance before bet: 10109.02
+Trade number: 358
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10110.36
+
+Balance before bet: 10110.36
+Trade number: 359
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10111.70
+
+Balance before bet: 10111.70
+Trade number: 360
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10113.04
+
+Balance before bet: 10113.04
+Trade number: 361
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10114.38
+
+Balance before bet: 10114.38
+Trade number: 362
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10115.72
+
+Balance before bet: 10115.72
+Trade number: 363
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10117.06
+
+Balance before bet: 10117.06
+Trade number: 364
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10118.40
+
+Balance before bet: 10118.40
+Trade number: 365
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10119.74
+
+Balance before bet: 10119.74
+Trade number: 366
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10121.08
+
+Balance before bet: 10121.08
+Trade number: 367
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10122.42
+
+Balance before bet: 10122.42
+Trade number: 368
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10123.76
+
+Balance before bet: 10123.76
+Trade number: 369
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10125.10
+
+Balance before bet: 10125.10
+Trade number: 370
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10126.44
+
+Balance before bet: 10126.44
+Trade number: 371
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10127.78
+
+Balance before bet: 10127.78
+Trade number: 372
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10129.12
+
+Balance before bet: 10129.12
+Trade number: 373
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10130.46
+
+Balance before bet: 10130.46
+Trade number: 374
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10131.80
+
+Balance before bet: 10131.80
+Trade number: 375
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10133.14
+
+Balance before bet: 10133.14
+Trade number: 376
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10134.48
+
+Balance before bet: 10134.48
+Trade number: 377
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10135.82
+
+Balance before bet: 10135.82
+Trade number: 378
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10137.16
+
+Balance before bet: 10137.16
+Trade number: 379
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10138.50
+
+Balance before bet: 10138.50
+Trade number: 380
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10139.84
+
+Balance before bet: 10139.84
+Trade number: 381
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10141.18
+
+Balance before bet: 10141.18
+Trade number: 382
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10135.68
+
+Balance before bet: 10135.68
+Trade number: 383
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10130.18
+
+Balance before bet: 10130.18
+Trade number: 384
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10124.68
+
+Balance before bet: 10124.68
+Trade number: 385
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10119.18
+
+Balance before bet: 10119.18
+Trade number: 386
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10113.68
+
+Balance before bet: 10113.68
+Trade number: 387
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10108.18
+
+Balance before bet: 10108.18
+Trade number: 388
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10102.68
+
+Balance before bet: 10102.68
+Trade number: 389
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10097.18
+
+Balance before bet: 10097.18
+Trade number: 390
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10091.68
+
+Balance before bet: 10091.68
+Trade number: 391
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10086.18
+
+Balance before bet: 10086.18
+Trade number: 392
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10080.68
+
+Balance before bet: 10080.68
+Trade number: 393
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10075.18
+
+Balance before bet: 10075.18
+Trade number: 394
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10069.68
+
+Balance before bet: 10069.68
+Trade number: 395
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10064.18
+
+Balance before bet: 10064.18
+Trade number: 396
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10058.68
+
+Balance before bet: 10058.68
+Trade number: 397
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10053.18
+
+Balance before bet: 10053.18
+Trade number: 398
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10047.68
+
+Balance before bet: 10047.68
+Trade number: 399
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10042.18
+
+Balance before bet: 10042.18
+Trade number: 400
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10043.52
+
+Balance before bet: 10043.52
+Trade number: 401
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10044.86
+
+Balance before bet: 10044.86
+Trade number: 402
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10046.20
+
+Balance before bet: 10046.20
+Trade number: 403
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10047.54
+
+Balance before bet: 10047.54
+Trade number: 404
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10048.88
+
+Balance before bet: 10048.88
+Trade number: 405
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10050.22
+
+Balance before bet: 10050.22
+Trade number: 406
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10051.56
+
+Balance before bet: 10051.56
+Trade number: 407
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10052.90
+
+Balance before bet: 10052.90
+Trade number: 408
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10054.24
+
+Balance before bet: 10054.24
+Trade number: 409
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10055.58
+
+Balance before bet: 10055.58
+Trade number: 410
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10056.92
+
+Balance before bet: 10056.92
+Trade number: 411
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10058.26
+
+Balance before bet: 10058.26
+Trade number: 412
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10059.60
+
+Balance before bet: 10059.60
+Trade number: 413
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10060.94
+
+Balance before bet: 10060.94
+Trade number: 414
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10062.28
+
+Balance before bet: 10062.28
+Trade number: 415
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10063.62
+
+Balance before bet: 10063.62
+Trade number: 416
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10064.96
+
+Balance before bet: 10064.96
+Trade number: 417
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10066.30
+
+Balance before bet: 10066.30
+Trade number: 418
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10067.64
+
+Balance before bet: 10067.64
+Trade number: 419
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10068.98
+
+Balance before bet: 10068.98
+Trade number: 420
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10070.32
+
+Balance before bet: 10070.32
+Trade number: 421
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10071.66
+
+Balance before bet: 10071.66
+Trade number: 422
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10073.00
+
+Balance before bet: 10073.00
+Trade number: 423
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10074.34
+
+Balance before bet: 10074.34
+Trade number: 424
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10075.68
+
+Balance before bet: 10075.68
+Trade number: 425
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10077.02
+
+Balance before bet: 10077.02
+Trade number: 426
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10078.36
+
+Balance before bet: 10078.36
+Trade number: 427
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10079.70
+
+Balance before bet: 10079.70
+Trade number: 428
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10081.04
+
+Balance before bet: 10081.04
+Trade number: 429
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10082.38
+
+Balance before bet: 10082.38
+Trade number: 430
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10083.72
+
+Balance before bet: 10083.72
+Trade number: 431
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10085.06
+
+Balance before bet: 10085.06
+Trade number: 432
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10086.40
+
+Balance before bet: 10086.40
+Trade number: 433
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10087.74
+
+Balance before bet: 10087.74
+Trade number: 434
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10089.08
+
+Balance before bet: 10089.08
+Trade number: 435
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10090.42
+
+Balance before bet: 10090.42
+Trade number: 436
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10091.76
+
+Balance before bet: 10091.76
+Trade number: 437
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10093.10
+
+Balance before bet: 10093.10
+Trade number: 438
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10094.44
+
+Balance before bet: 10094.44
+Trade number: 439
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10095.78
+
+Balance before bet: 10095.78
+Trade number: 440
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10097.12
+
+Balance before bet: 10097.12
+Trade number: 441
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10098.46
+
+Balance before bet: 10098.46
+Trade number: 442
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10099.80
+
+Balance before bet: 10099.80
+Trade number: 443
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10101.14
+
+Balance before bet: 10101.14
+Trade number: 444
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10102.48
+
+Balance before bet: 10102.48
+Trade number: 445
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10103.82
+
+Balance before bet: 10103.82
+Trade number: 446
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10105.16
+
+Balance before bet: 10105.16
+Trade number: 447
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10106.50
+
+Balance before bet: 10106.50
+Trade number: 448
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10107.84
+
+Balance before bet: 10107.84
+Trade number: 449
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10109.18
+
+Balance before bet: 10109.18
+Trade number: 450
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10110.52
+
+Balance before bet: 10110.52
+Trade number: 451
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10111.86
+
+Balance before bet: 10111.86
+Trade number: 452
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10113.20
+
+Balance before bet: 10113.20
+Trade number: 453
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10114.54
+
+Balance before bet: 10114.54
+Trade number: 454
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10115.88
+
+Balance before bet: 10115.88
+Trade number: 455
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10117.22
+
+Balance before bet: 10117.22
+Trade number: 456
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10118.56
+
+Balance before bet: 10118.56
+Trade number: 457
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10119.90
+
+Balance before bet: 10119.90
+Trade number: 458
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10121.24
+
+Balance before bet: 10121.24
+Trade number: 459
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10122.58
+
+Balance before bet: 10122.58
+Trade number: 460
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10123.92
+
+Balance before bet: 10123.92
+Trade number: 461
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10125.26
+
+Balance before bet: 10125.26
+Trade number: 462
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10126.60
+
+Balance before bet: 10126.60
+Trade number: 463
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10127.94
+
+Balance before bet: 10127.94
+Trade number: 464
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10129.28
+
+Balance before bet: 10129.28
+Trade number: 465
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10130.62
+
+Balance before bet: 10130.62
+Trade number: 466
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10131.96
+
+Balance before bet: 10131.96
+Trade number: 467
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10133.30
+
+Balance before bet: 10133.30
+Trade number: 468
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10134.64
+
+Balance before bet: 10134.64
+Trade number: 469
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10135.98
+
+Balance before bet: 10135.98
+Trade number: 470
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10137.32
+
+Balance before bet: 10137.32
+Trade number: 471
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10138.66
+
+Balance before bet: 10138.66
+Trade number: 472
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10140.00
+
+Balance before bet: 10140.00
+Trade number: 473
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10141.34
+
+Balance before bet: 10141.34
+Trade number: 474
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10142.68
+
+Balance before bet: 10142.68
+Trade number: 475
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10144.02
+
+Balance before bet: 10144.02
+Trade number: 476
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10145.36
+
+Balance before bet: 10145.36
+Trade number: 477
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10146.70
+
+Balance before bet: 10146.70
+Trade number: 478
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10148.04
+
+Balance before bet: 10148.04
+Trade number: 479
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10149.38
+
+Balance before bet: 10149.38
+Trade number: 480
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10150.72
+
+Balance before bet: 10150.72
+Trade number: 481
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10152.06
+
+Balance before bet: 10152.06
+Trade number: 482
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10146.56
+
+Balance before bet: 10146.56
+Trade number: 483
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10141.06
+
+Balance before bet: 10141.06
+Trade number: 484
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10135.56
+
+Balance before bet: 10135.56
+Trade number: 485
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10130.06
+
+Balance before bet: 10130.06
+Trade number: 486
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10124.56
+
+Balance before bet: 10124.56
+Trade number: 487
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10119.06
+
+Balance before bet: 10119.06
+Trade number: 488
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10113.56
+
+Balance before bet: 10113.56
+Trade number: 489
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10108.06
+
+Balance before bet: 10108.06
+Trade number: 490
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10102.56
+
+Balance before bet: 10102.56
+Trade number: 491
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10097.06
+
+Balance before bet: 10097.06
+Trade number: 492
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10091.56
+
+Balance before bet: 10091.56
+Trade number: 493
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10086.06
+
+Balance before bet: 10086.06
+Trade number: 494
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10080.56
+
+Balance before bet: 10080.56
+Trade number: 495
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10075.06
+
+Balance before bet: 10075.06
+Trade number: 496
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10069.56
+
+Balance before bet: 10069.56
+Trade number: 497
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10064.06
+
+Balance before bet: 10064.06
+Trade number: 498
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10058.56
+
+Balance before bet: 10058.56
+Trade number: 499
+Bet amount: 100.00
+Bet return: 94.50
+Balance after trade: 10053.06
+
+Balance before bet: 10053.06
+Trade number: 500
+Bet amount: 100.00
+Bet return: 101.34
+Balance after trade: 10054.40
+
